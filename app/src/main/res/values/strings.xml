@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CET343_FirstApp</string>
+    <string name="key_passed_value">KEY_PASSED_VALUE</string>
+    <string name="main_value_is">Main value is :</string>
+    <string name="second_value_is">Second value is :</string>
+    <string name="third_value_is">Third value is :</string>
+    <string name="fourth_value_is">Fourth value is :</string>
+</resources>
